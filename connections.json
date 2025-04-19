@@ -26,10 +26,12 @@
         "wiiu1.debug.exploit",
         "wiiu.nnid.edit"
     ],
-    "Servers": [
+    "General": [
         "edf.server.net",
         "lk.server.net",
-        "hexchi.gateway.net",
-        "wad.install.gateway"
+    ],
+    "Gateway": [
+        "spotpass.gateway.net",
+        "streetpass.gateway.net",
     ]
 }
