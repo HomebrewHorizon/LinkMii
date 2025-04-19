@@ -1,0 +1,35 @@
+{
+    "DS": [
+        "nds1.alzak.sk",
+        "nds1.zrps.sk",
+        "nds1.lk.cmn"
+    ],
+    "DSi": [
+        "dsi.alzak.sk",
+        "dsi.sklo.recyk",
+        "dsi.mii.deleter"
+    ],
+    "3DS": [
+        "3ds.streetpass.debug",
+        "3ds1.debug",
+        "3ds.sd.ftpii"
+    ],
+    "Wii": [
+        "wii.disc.try",
+        "wii.debug.mii",
+        "wii.clear.mii",
+        "wii.nwc24.co.jp"
+    ],
+    "WiiU": [
+        "wiiu.exploit.xzy",
+        "wiiu.mii.verse",
+        "wiiu1.debug.exploit",
+        "wiiu.nnid.edit"
+    ],
+    "Servers": [
+        "edf.server.net",
+        "lk.server.net",
+        "hexchi.gateway.net",
+        "wad.install.gateway"
+    ]
+}
